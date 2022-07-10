@@ -1,4 +1,5 @@
-# preciso da soma e da media
+#Lógica de Programação
+
 num = 0
 soma = 0
 media = 0
