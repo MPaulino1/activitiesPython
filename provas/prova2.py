@@ -1,7 +1,7 @@
 #Lógica de Programação
 
 day = int(input('Digite seu dia de nascimento: '))
-month = int(input('Digite o número do seu mês de nascimento: '))
+month = int(input('Digite o número do seu mês de nascimento:  '))
 
 if day >= 21 and day <= 31 and month == 3 or day >= 1 and day <= 20 and month == 4:
     print('Áries')
