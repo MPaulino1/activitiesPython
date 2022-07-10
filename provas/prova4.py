@@ -1,4 +1,5 @@
-'''
+#Lógica de Programação
+
 print("OLÁ, MUNDO!")
 
 var = "OLÁ, MUNDO!"
@@ -19,7 +20,5 @@ else:
 
 for var in range(11):
     print(var)
-'''
-
 
 
