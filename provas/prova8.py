@@ -10,7 +10,7 @@ não poderá ser mais antiga que a entrada dele no estacionamento.
 '''
 
 class Veiculo:
-    def __init__(self, tipo, valor, placa, modelo, entrada, hentrada, hsaida=0, status='ESTACIONADO'):
+    def __init__(self, tipo, valor, placa, modelo, entrada, hentrada, hsaida=0, status='Estacionando'):
         self.__tipo = tipo
         self.__valor = valor
         self.__placa = placa
@@ -40,7 +40,7 @@ class Veiculo:
 
 
 def inicial():
-lista = []
+    lista = []
 
 while True:
     t = 'n'
