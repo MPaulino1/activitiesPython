@@ -1,4 +1,4 @@
-#prova2
+#Lógica de Programação
 
 day = int(input('Digite seu dia de nascimento: '))
 month = int(input('Digite o número do seu mês de nascimento: '))
