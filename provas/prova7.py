@@ -53,7 +53,7 @@ class Computador:
     def ocuparHd(self, memoria):
         if self.slotHd + memoria <= self.tamHd:
             self.slotHd += memoria
-            print('Adicionando arquivos')
+            print('Adicionando arquivos....')
             print(self.tamHd)
         else:
             print('Excedeu o limite do HD')
