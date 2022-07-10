@@ -1,3 +1,10 @@
+'''
+A NASA (Agência Espacial dos Estados Unidos) mantém um registro de todos os asteroides e suas distâncias relativas à Terra.
+Você foi convidado para escrever um programa que leia o nome do asteroide e uma lista das suas últimas 5 distâncias da Terra.
+Armazene os dados em um dicionário, onde a chave é o nome do asteroide. Exiba no final a distância média de todos os
+asteroides registrados.
+'''
+
 def Asteroide():
     lista = []
 Asteroide()
