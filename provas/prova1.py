@@ -1,4 +1,4 @@
-#prova1
+#Lógica de Programação
 
 tempoGasto = float(input('Quantas horas durou a viagem? '))
 velocidadeMedia = float(input('Qual sua velocidade média? '))
