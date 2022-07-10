@@ -4,7 +4,6 @@ Exemplo:
 Entrada -> 1453
 Saída   -> XV
 '''
-
 def seculo(ano):
     if ano > 1 and ano <= 100:
         return 'I'
