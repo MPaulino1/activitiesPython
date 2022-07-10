@@ -5,6 +5,7 @@ velocidadeMedia = float(input('Qual sua velocidade média? '))
 distancia = tempoGasto*velocidadeMedia
 litros_usados = distancia/12
 
+
 print('A velocidade média do veículo é de', velocidadeMedia, 'km/h.')
 print('O tempo gasto na viagem é de', tempoGasto, 'horas.')
 print( 'A distância percorrida é de', distancia, 'Km.')
